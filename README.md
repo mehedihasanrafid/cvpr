@@ -96,17 +96,4 @@ cvpr/
 3. **Run Notebooks**:
    Open any notebook inside the `notebooks/` directory using Jupyter Notebook, JupyterLab, or Google Colab.
 
----
 
-## 📑 Citation
-
-If you use this benchmark, code, or findings in your research, please cite:
-
-```bibtex
-@article{rafid2026explainable,
-  title={Explainable Transfer Learning for Brain Tumor MRI Classification: A Four-Model Benchmark with Duplicate-Controlled Internal Testing and External Validation},
-  author={Rafid, Mehedi Hasan and Zaman, Al-Mahmud and Apon, M. R. Wasik Ahmed},
-  journal={Computer Vision and Pattern Recognition, AIUB},
-  year={2026}
-}
-```
